@@ -1,4 +1,4 @@
-//Program 4 (Date)
+//Program 4 (22nd July 2026)
 //WAP to Define 2 Functions highest() and lowest(). Both Functions Will Accept an Array as a Parameter , highest() and lowest() Function Returns the Highest and Lowest Element Respectively From an Array Given By the User
 #include<stdio.h>
 int highest(int arr[],int n);
